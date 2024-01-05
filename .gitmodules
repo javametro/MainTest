@@ -1,0 +1,3 @@
+[submodule "testsubmobule"]
+	path = testsubmobule
+	url = https://github.com/javametro/testsubmodule.git
